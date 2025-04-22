@@ -10,4 +10,7 @@ Finalmente, una capa de clasificación transforma la representación del texto e
 
 Gracias a esta arquitectura profunda y contextual, la aplicación es capaz de interpretar frases en lenguaje natural (formales o informales) y clasificarlas automáticamente según el sentimiento que expresan, siendo especialmente eficaz en textos breves como los de redes sociales.
 
+Ejemplo en aplicación
+
+https://github.com/RickUbb/transformerExample
 ![Example](https://github.com/RickUbb/feelingAnalysis/blob/main/Example.jpeg?raw=true)
