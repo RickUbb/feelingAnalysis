@@ -9,3 +9,5 @@ Aunque RoBERTuito no usa literalmente un "doble encoder", su diseño bidireccion
 Finalmente, una capa de clasificación transforma la representación del texto en una distribución de probabilidad sobre tres clases: positivo, negativo o neutral, mediante una función softmax, que indica qué sentimiento predomina y con cuánta certeza.
 
 Gracias a esta arquitectura profunda y contextual, la aplicación es capaz de interpretar frases en lenguaje natural (formales o informales) y clasificarlas automáticamente según el sentimiento que expresan, siendo especialmente eficaz en textos breves como los de redes sociales.
+
+![Example](https://github.com/RickUbb/feelingAnalysis/blob/main/Example.jpeg?raw=true)
